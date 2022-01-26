@@ -1,7 +1,7 @@
 ### Olá! Me chamo Wallacy 👋
 
 
-- 🌱 Estudando beckend com Docker
+- 🌱 Estudando beckend com Node.js
 - 📫 Contate-me no email: wallacy_francis@hotmail.com
 - 😄 Pronomes: ele/dele
 - 📓 Estudante de desenvolvimento de software pela Trybe
