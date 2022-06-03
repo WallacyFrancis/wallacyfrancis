@@ -8,7 +8,7 @@
 - :notebook_with_decorative_cover: Estudando introdução a ciência da computação com python na Trybe;
 - :notes: Amo música, toco violão, canto um cadiquim e as vezes componho apenas pra mim;
 - :desktop_computer: Desenvolvedor fullstack;
-- :art: Gosto de esplorar minha criatividade;
+- :art: Gosto de explorar a minha criatividade;
 - :video_game: Jogos eletrônicos está entre meus hobbies;
 - :open_book: Apaixonado também por leitura;
 - :spades: As vezes procuro habilidades aleatórias como aprender mágica, linguas orientais e curiosidades pra entender como algumas coisas funcionam;
