@@ -1,7 +1,7 @@
 ## Olá Pessoa! Obrigado por visitar meu perfil 👋
 
 <p>Me chamo Wallacy Francisco da Silva, mais conhecido por <strong>Wallacy Francis</strong>. Tenho 27 anos e sou apaixonado por tecnologia, em especial o ramo de desenvolvimento web.</p><br />
-<p>Tudo começou quando aos 19 anos de idade tive a oportunidade de trabalhar como instrutor em uma escola de Informática e ali, desenvolvi minha lógica em excel, depois conheci VBA pelo excel, logo já estava aprendendo PHP. Então sinto que ali foi um combo onde me descobri na tecnologia, me tornei um entusiata por aprendizagem e espero ainda compartilhar meu conhecimentos ensinando pessoas a programarem.</p><br />
+<p>Tudo começou quando aos 19 anos de idade tive a oportunidade de trabalhar como instrutor em uma escola de Informática e ali, desenvolvi minha lógica em excel. Posteriormente conheci VBA pelo excel, logo já estava aprendendo PHP. Então sinto que ali foi um combo onde me descobri na tecnologia, me tornei um entusiata por aprendizagem e espero ainda compartilhar meu conhecimentos ensinando pessoas a programarem.</p><br />
 <p>Sou desenvolvedor fullstack em formação pela escola <strong>Trybe</strong>, e apesar de ter um bom domínio com backend, me identifico mais como frontend. Gosto de ver a tela preta de meu vscode como o quadro branco de um artista na hora de pintar, e assim usar linhas de códigos pra afinar minha criatividade, seja no desenvolvimentos de aplicações e resolução de problemas.
 
 ## Um pouco sobre mim
