@@ -5,7 +5,7 @@
 <p>Sou desenvolvedor fullstack em formação pela escola <strong>Trybe</strong>, e apesar de ter um bom domínio com backend, me identifico mais com frontend. Gosto de ver a tela preta do meu vscode como o quadro branco de um artista prestes à pintar, e assim usar linhas de códigos pra afinar minha criatividade, seja no desenvolvimentos de aplicações e/ou resolução de problemas.
 
 ## Um pouco sobre mim
-- :notebook_with_decorative_cover: Estudando introdução a ciência da computação com python na Trybe;
+- :notebook_with_decorative_cover: Formado em desenvolvimento de software web pela escola Trybe;
 - :notes: Amo música, toco violão, canto um cadiquim e as vezes componho apenas pra mim;
 - :desktop_computer: Desenvolvedor fullstack;
 - :art: Gosto de explorar a minha criatividade;
