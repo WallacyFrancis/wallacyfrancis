@@ -2,7 +2,7 @@
 
 <p>Me chamo <strong>Wallacy Francis</strong>. Tenho 29 anos e sou apaixonado por tecnologia, em especial o ramo de desenvolvimento web.</p><br />
 <p>Tudo começou quando aos 19 anos de idade tive a oportunidade de trabalhar como instrutor em uma escola de Informática onde desenvolvi minha lógica em excel. Posteriormente conheci VBA pelo excel e logo estava aprendendo PHP. Então sinto que ali foi um combo onde me descobri na tecnologia, me tornei um entusiata por aprendizagem e espero ainda compartilhar meu conhecimentos ensinando pessoas a programarem.</p><br />
-<p>Sou desenvolvedor fullstack formado pela escola <strong>Trybe</strong> em 2022 e atua na área como desenvolvedor front-end na empresa [Audiency Brasil](https://audiency.io/), onde usamos a framework NextJs. Hoje, estando na mesma empresa, além de desenvolvedor também sou líder do time de front-end, onde faço code review e análise o uso de UI e UX em nossos sistemas. Atualmente venho estudando python e olhando para o mercado de IA’s, venho aprendendo sobre o uso e LLM e integração com diversas IA’s em projetos capaz de entregar uma melhor experiência aos usuário junto com uma redução de custos das empresas quando o assunto é tecnologia.
+<p>Sou desenvolvedor fullstack formado pela escola <strong>Trybe</strong> em 2022 e atuo na área como desenvolvedor front-end na empresa [Audiency Brasil](https://audiency.io/), onde usamos a framework NextJs. Hoje, estando na mesma empresa, além de desenvolvedor também sou líder do time de front-end, onde faço code review e análise o uso de UI e UX em nossos sistemas. Atualmente venho estudando python e olhando para o mercado de IA’s, venho aprendendo sobre o uso e LLM e integração com diversas IA’s em projetos capaz de entregar uma melhor experiência aos usuário junto com uma redução de custos das empresas quando o assunto é tecnologia.
 
 ## Um pouco sobre mim
 - :notebook_with_decorative_cover: Formado em desenvolvimento de software web pela escola Trybe;
@@ -11,7 +11,8 @@
 - :art: Gosto de explorar a minha criatividade;
 - :video_game: Jogos eletrônicos está entre meus hobbies;
 - :open_book: Apaixonado também por leitura;
-- :spades: As vezes procuro habilidades aleatórias como aprender mágica, linguas orientais e curiosidades pra entender como algumas coisas funcionam;
+- :snake: Descobrindo novas paixões com Pyhton;
+- :spades: Amo RPG de mesa, principalmente pra aprimorar a criatividade com a imaginação;
 - :male_sign: Pronomes: ele/dele
 
   
