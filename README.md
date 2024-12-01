@@ -12,7 +12,7 @@
 - :video_game: Jogos eletrônicos está entre meus hobbies;
 - :open_book: Apaixonado também por leitura;
 - :snake: Descobrindo novas paixões com Pyhton;
-- :spades: Amo RPG de mesa, principalmente pra aprimorar a criatividade com a imaginação;
+- :european_castle: Amo RPG de mesa, principalmente pra aprimorar a criatividade com a imaginação;
 - :male_sign: Pronomes: ele/dele
 
   
@@ -38,6 +38,7 @@
   <img align="center" alt="WallacyFrancis-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="WallacyFrancis-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="WallacyFrancis-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="WallacyFrancis-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </div>
   
 ## Contato
