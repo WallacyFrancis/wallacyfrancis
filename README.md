@@ -1,8 +1,8 @@
 ## Olá Pessoa! Obrigado por visitar meu perfil 👋
 
-<p>Me chamo Wallacy Francisco da Silva, mais conhecido por <strong>Wallacy Francis</strong>. Tenho 27 anos e sou apaixonado por tecnologia, em especial o ramo de desenvolvimento web.</p><br />
+<p>Me chamo <strong>Wallacy Francis</strong>. Tenho 29 anos e sou apaixonado por tecnologia, em especial o ramo de desenvolvimento web.</p><br />
 <p>Tudo começou quando aos 19 anos de idade tive a oportunidade de trabalhar como instrutor em uma escola de Informática onde desenvolvi minha lógica em excel. Posteriormente conheci VBA pelo excel e logo estava aprendendo PHP. Então sinto que ali foi um combo onde me descobri na tecnologia, me tornei um entusiata por aprendizagem e espero ainda compartilhar meu conhecimentos ensinando pessoas a programarem.</p><br />
-<p>Sou desenvolvedor fullstack formado pela escola <strong>Trybe</strong>, e apesar de ter um bom domínio com backend, me identifico mais com frontend. Gosto de ver a tela preta do meu vscode como o quadro branco de um artista prestes à pintar, e assim usar linhas de códigos pra afinar minha criatividade, seja no desenvolvimentos de aplicações e/ou resolução de problemas.
+<p>Sou desenvolvedor fullstack formado pela escola <strong>Trybe</strong> em 2022 e atua na área como desenvolvedor front-end na empresa [Audiency Brasil](https://audiency.io/), onde usamos a framework NextJs. Hoje, estando na mesma empresa, além de desenvolvedor também sou líder do time de front-end, onde faço code review e análise o uso de UI e UX em nossos sistemas. Atualmente venho estudando python e olhando para o mercado de IA’s, venho aprendendo sobre o uso e LLM e integração com diversas IA’s em projetos capaz de entregar uma melhor experiência aos usuário junto com uma redução de custos das empresas quando o assunto é tecnologia.
 
 ## Um pouco sobre mim
 - :notebook_with_decorative_cover: Formado em desenvolvimento de software web pela escola Trybe;
