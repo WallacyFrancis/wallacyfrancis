@@ -1,19 +1,29 @@
-## Olá Pessoa! Obrigado por visitar meu perfil 👋
+## Olá, pessoa! Obrigado por visitar meu perfil 👋
 
-<p>Me chamo <strong>Wallacy Francis</strong>. Tenho 29 anos e sou apaixonado por tecnologia, em especial o ramo de desenvolvimento web.</p><br />
-<p>Tudo começou quando aos 19 anos de idade tive a oportunidade de trabalhar como instrutor em uma escola de Informática onde desenvolvi minha lógica em excel. Posteriormente conheci VBA pelo excel e logo estava aprendendo PHP. Então sinto que ali foi um combo onde me descobri na tecnologia, me tornei um entusiata por aprendizagem e espero ainda compartilhar meu conhecimentos ensinando pessoas a programarem.</p><br />
-<p>Sou desenvolvedor fullstack formado pela escola <strong>Trybe</strong> em 2022 e atuo na área como desenvolvedor front-end na empresa <a href="https://audiency.io/" target="_blank">Audiency Brasil</a>, onde usamos a framework NextJs. Hoje, estando na mesma empresa, além de desenvolvedor também sou líder do time de front-end, onde faço code review e análise o uso de UI e UX em nossos sistemas. Atualmente venho estudando python e olhando para o mercado de IA’s, venho aprendendo sobre o uso e LLM e integração com diversas IA’s em projetos capaz de entregar uma melhor experiência aos usuário junto com uma redução de custos das empresas quando o assunto é tecnologia.
+<p>Me chamo <strong>Wallacy Francis</strong>, tenho 30 anos e sou apaixonado por tecnologia — especialmente pelo universo do desenvolvimento web.</p>
+
+<p>Minha trajetória na área começou aos 19 anos, quando trabalhei como instrutor em uma escola de informática. Foi ali que desenvolvi minha lógica usando Excel, conheci o VBA e, logo depois, mergulhei no mundo do PHP. Esse conjunto de descobertas despertou em mim uma verdadeira paixão pela tecnologia, pela resolução de problemas e, principalmente, pelo poder de ensinar o que aprendo.</p>
+
+<p>Sou formado em desenvolvimento de software pela <strong>Trybe</strong> (2022) e atuo como <strong>desenvolvedor front-end pleno</strong> na <a href="https://audiency.io/" target="_blank">Audiency Brasil</a>, onde trabalhamos com o framework Next.js.</p>
+
+<p>Na empresa, além de desenvolver interfaces ricas em usabilidade e performance, também lidero o time de front-end. Realizo code reviews, proponho melhorias de UI/UX e participo ativamente das decisões técnicas e estratégicas dos nossos produtos.</p>
+
+<p>Com mais de 3 anos de experiência focado em front-end, venho ampliando meus conhecimentos em Python e estudando o mercado de Inteligência Artificial, com foco no uso de LLMs e sua integração em sistemas que oferecem melhor experiência ao usuário e redução de custos para as empresas.</p>
+
+---
 
 ## Um pouco sobre mim
-- :notebook_with_decorative_cover: Formado em desenvolvimento de software web pela escola Trybe;
-- :notes: Amo música, toco violão, canto um cadiquim e as vezes componho apenas pra mim;
-- :desktop_computer: Desenvolvedor fullstack;
-- :art: Gosto de explorar a minha criatividade;
-- :video_game: Jogos eletrônicos está entre meus hobbies;
-- :open_book: Apaixonado também por leitura;
-- :snake: Descobrindo novas paixões com Pyhton;
-- :european_castle: Amo RPG de mesa, principalmente pra aprimorar a criatividade com a imaginação;
-- :male_sign: Pronomes: ele/dele
+
+- 📘 Formado em desenvolvimento de software web pela escola Trybe;
+- 🎵 Amo música, toco violão, canto um "cadim" e, às vezes, componho só pra mim;
+- 💻 Desenvolvedor fullstack com foco em front-end;
+- 🎨 Gosto de explorar minha criatividade em diferentes formas;
+- 🎮 Jogos eletrônicos estão entre meus hobbies favoritos;
+- 📚 Apaixonado por leitura e aprendizado constante;
+- 🐍 Explorando novas possibilidades com Python;
+- 🏰 Fã de RPG de mesa — adoro usar a imaginação para criar mundos;
+- 👨‍💼 Pronomes: ele/dele
+
 
   
 ## Detalhes do meu histórico GiitHub
